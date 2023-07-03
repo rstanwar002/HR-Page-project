@@ -1,0 +1,83 @@
+.get-matched-the {
+  margin: 0;
+}
+.get-matched-the-container,
+.in-the-subject {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.get-matched-the-container {
+  top: 0;
+  font-size: var(--font-size-21xl);
+  width: 516px;
+}
+.in-the-subject {
+  top: 156px;
+  width: 553px;
+}
+.vector-icon5 {
+  position: relative;
+  width: 18px;
+  height: 17px;
+}
+.upload-your-cv {
+  position: relative;
+  font-weight: 500;
+}
+.frame-wrapper1,
+.vector-parent1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vector-parent1 {
+  width: 155px;
+  height: 21px;
+  flex-direction: row;
+  gap: var(--gap-2xs);
+}
+.frame-wrapper1 {
+  position: absolute;
+  top: 228px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 186px;
+  height: 50px;
+  flex-direction: column;
+  padding: var(--padding-sm) 0;
+  box-sizing: border-box;
+  text-align: center;
+  color: var(--color-blueviolet);
+}
+.get-matched-the-most-valuable-parent {
+  position: absolute;
+  top: 136px;
+  left: 660.38px;
+  width: 553px;
+  height: 278px;
+}
+.profilingrafiki-icon {
+  position: absolute;
+  height: 100%;
+  width: 54.43%;
+  top: 0;
+  right: 45.57%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-parent8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1213.38px;
+  height: 487px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

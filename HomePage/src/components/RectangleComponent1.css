@@ -1,0 +1,8 @@
+.rectangle-div {
+  position: absolute;
+  top: 668px;
+  left: 0;
+  background-color: var(--color-ghostwhite-200);
+  width: 1440px;
+  height: 703px;
+}

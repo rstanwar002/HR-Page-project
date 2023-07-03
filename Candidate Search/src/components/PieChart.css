@@ -1,0 +1,188 @@
+.piechart-icon {
+  position: absolute;
+  top: 2px;
+  left: calc(50% - 120.57px);
+  width: 241.36px;
+  height: 242px;
+}
+.div {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 47.87px);
+  font-weight: 500;
+  display: inline-block;
+  width: 53.86px;
+}
+.line-icon1 {
+  position: absolute;
+  top: 38px;
+  left: calc(50% - 22.94px);
+  width: 71.26px;
+  height: 58.9px;
+}
+.div1,
+.runningline {
+  position: absolute;
+  top: 0;
+}
+.runningline {
+  left: 0;
+  width: 95.75px;
+  height: 96px;
+}
+.div1 {
+  left: calc(50% - 13.46px);
+  font-weight: 500;
+  display: inline-block;
+  width: 51.86px;
+}
+.line-icon2 {
+  position: absolute;
+  top: 38px;
+  left: calc(50% - 38.72px);
+  width: 52.18px;
+  height: 41.45px;
+}
+.fixedline {
+  position: absolute;
+  top: 59px;
+  left: 304.2px;
+  width: 76.8px;
+  height: 78.5px;
+}
+.div2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 89.51px);
+  font-weight: 500;
+  display: inline-block;
+  width: 54.85px;
+}
+.line-icon3 {
+  position: absolute;
+  top: 38px;
+  left: calc(50% - 57.1px);
+  width: 146.61px;
+  height: 33px;
+}
+.downline {
+  position: absolute;
+  top: 166px;
+  left: 7.98px;
+  width: 179.03px;
+  height: 70px;
+}
+.piechart-group {
+  align-self: stretch;
+  position: relative;
+  height: 244px;
+}
+.labellegendlight-child {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--primary-blue);
+  width: 12px;
+  height: 12px;
+}
+.web-server-a {
+  position: relative;
+}
+.labellegendlight {
+  width: 83.78px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.div3 {
+  position: relative;
+  font-size: var(--heading-heading-1-size);
+  font-weight: 600;
+  display: inline-block;
+  width: 59.84px;
+}
+.labellegendlight-parent {
+  flex: 1;
+  height: 75px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.labellegendlight-item {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--primary-orange);
+  width: 12px;
+  height: 12px;
+}
+.labellegendlight1 {
+  width: 51.86px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.div4 {
+  position: relative;
+  font-size: var(--heading-heading-1-size);
+  font-weight: 600;
+  display: inline-block;
+  width: 52px;
+}
+.labellegendlight-group {
+  flex: 1;
+  height: 75px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-4xs);
+}
+.labellegendlight-inner {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--primary-sky-blue);
+  width: 12px;
+  height: 12px;
+}
+.labellegendlight2 {
+  width: 72.81px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.div5 {
+  position: relative;
+  font-size: var(--heading-heading-1-size);
+  font-weight: 600;
+  display: inline-block;
+  width: 86.77px;
+}
+.frame-parent,
+.piechart {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-65xl);
+  font-size: var(--label-label-md-size);
+}
+.piechart {
+  border-radius: var(--br-9xs);
+  background-color: var(--gray-white);
+  flex-direction: column;
+  padding: var(--padding-base) 44.22955322265625px var(--padding-base)
+    var(--padding-26xl);
+  gap: var(--gap-29xl);
+  text-align: left;
+  font-size: var(--heading-heading-4-size);
+  color: var(--light-theme-color-body);
+  font-family: var(--body-paragraph-semi-bold);
+}

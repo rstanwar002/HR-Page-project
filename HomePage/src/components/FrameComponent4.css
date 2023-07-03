@@ -1,0 +1,52 @@
+.jobs-available6 {
+  position: absolute;
+  top: 83px;
+  left: 60px;
+}
+.finance {
+  margin: 0;
+}
+.finance-management {
+  position: absolute;
+  top: 0;
+  left: 60px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 177px;
+  height: 63px;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 43.27%;
+  width: 18.99%;
+  top: 8.65%;
+  right: 81.01%;
+  bottom: 48.08%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jobs-available-container {
+  position: relative;
+  width: 237px;
+  height: 104px;
+}
+.homepage-inner6 {
+  position: absolute;
+  top: 899px;
+  left: 1092px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+  width: 318px;
+  height: 158px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

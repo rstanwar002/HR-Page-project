@@ -1,0 +1,10 @@
+.homepage-inner {
+  position: absolute;
+  top: 496px;
+  left: 252px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 1px 22px 1px rgba(69, 64, 219, 0.04);
+  width: 880px;
+  height: 60px;
+}

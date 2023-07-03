@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --web-body-16-lh20: Montserrat;
+  --body-paragraph-semi-bold: Poppins;
+  --desktop-label-14medium: Rubik;
+
+  /* font sizes */
+  --web-body-16-lh20-size: 16px;
+  --web-caption-2-14b-lh16-size: 14px;
+  --label-label-md-size: 12px;
+  --web-h6-20b-lh26-size: 20px;
+  --heading-heading-1-size: 32px;
+  --heading-heading-4-size: 18px;
+  --web-h3-28b-lh30-size: 28px;
+
+  /* Colors */
+  --gray-white: #fff;
+  --gray-black: #000;
+  --primary-blue: #303c6c;
+  --primary-orange: #fa976c;
+  --shades-of-black-800: #666;
+  --shades-of-black-500: #d2d2d2;
+  --green: #6fcf97;
+  --color-aliceblue: #edf4fb;
+  --color-midnightblue: #0c1e5b;
+  --color-ghostwhite-100: #f4f5f9;
+  --light-theme-color-grey-2: #f3f2f7;
+  --color-darkgray: #969ba0;
+  --light-theme-color-body: #464255;
+  --shades-of-black-900: #333;
+  --primary-sky-blue: #b4dfe5;
+  --red: #dc1500;
+  --shades-of-black-400: #e3e3e3;
+  --secondary-secondary-dark: #778ca2;
+  --light-theme-color-info: #58cdff;
+  --color-royalblue: #4d7cfe;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-29xl: 48px;
+  --gap-65xl: 84px;
+  --gap-4xs: 9px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-6xl: 25px;
+  --padding-5xs: 8px;
+  --padding-25xl-2: 44.2px;
+  --padding-26xl: 45px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+  --br-12xs: 1px;
+  --br-11xl: 30px;
+}

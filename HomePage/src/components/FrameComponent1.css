@@ -1,0 +1,59 @@
+.marketing {
+  margin: 0;
+}
+.jobs-available,
+.marketing-communication-container {
+  position: relative;
+}
+.jobs-available {
+  font-size: var(--font-size-lg);
+}
+.marketing-communication-parent {
+  position: absolute;
+  top: 0;
+  left: 58px;
+  width: 178px;
+  height: 99px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.vector-icon1 {
+  position: absolute;
+  height: 45.45%;
+  width: 18.22%;
+  top: 8.08%;
+  right: 81.78%;
+  bottom: 46.46%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-parent1 {
+  position: relative;
+  width: 236px;
+  height: 99px;
+}
+.frame-div {
+  position: absolute;
+  top: 899px;
+  left: 48px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+  width: 318px;
+  height: 158px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-9xl) 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

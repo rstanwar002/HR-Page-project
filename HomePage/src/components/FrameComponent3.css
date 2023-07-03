@@ -1,0 +1,52 @@
+.jobs-available2 {
+  position: absolute;
+  top: 83px;
+  left: 60px;
+}
+.human-research {
+  margin: 0;
+}
+.human-research-container {
+  position: absolute;
+  top: 0;
+  left: 60px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 215px;
+  height: 63px;
+}
+.group-icon2 {
+  position: absolute;
+  height: 43.27%;
+  width: 16.36%;
+  top: 8.65%;
+  right: 83.64%;
+  bottom: 48.08%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jobs-available-parent {
+  position: relative;
+  width: 275px;
+  height: 104px;
+}
+.homepage-inner2 {
+  position: absolute;
+  top: 899px;
+  left: 744px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-blueviolet);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+  width: 318px;
+  height: 158px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

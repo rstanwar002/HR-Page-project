@@ -1,0 +1,6 @@
+.frame-child2 {
+  position: relative;
+  border-radius: var(--br-xl);
+  width: 276px;
+  height: 316px;
+}

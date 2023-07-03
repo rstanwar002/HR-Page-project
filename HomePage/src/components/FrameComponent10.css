@@ -1,0 +1,60 @@
+.never-want-to {
+  margin: 0;
+}
+.job-news {
+  color: var(--color-blueviolet);
+}
+.never-want-to-container {
+  position: relative;
+}
+.frame-wrapper,
+.subscribe-wrapper {
+  border-radius: var(--br-xl);
+  background-color: var(--color-blueviolet);
+  width: 119px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-sm) var(--padding-lg);
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-wrapper {
+  background-color: var(--color-white);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+  width: 402px;
+  height: 60px;
+  padding: 0 var(--padding-7xs);
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.never-want-to-miss-any-job-new-parent {
+  width: 911px;
+  height: 118px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-57xl);
+}
+.homepage-inner8 {
+  position: absolute;
+  top: 3061px;
+  left: 181px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+  width: 1057px;
+  height: 214px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
